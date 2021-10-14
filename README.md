@@ -1,2 +1,2 @@
 # rust-toys
-Toys implemented with rust.
+Toys implement with rust.
